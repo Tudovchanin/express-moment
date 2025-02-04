@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 			<url>
-				<loc>https://http://localhost/</loc>
-				<lastmod>2025-01-17</lastmod>
+				<loc>https://tudovchanin.github.io/express-moment/</loc>
+				<lastmod>2024-01-17</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>1.0</priority>
 			</url>
 			<url>
 				<loc>https://http://localhost/about.html</loc>
-				<lastmod>2025-01-17</lastmod>
+				<lastmod>2024-01-17</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>1.0</priority>
 			</url>
 			<url>
 				<loc>https://http://localhost/contacts.html</loc>
-				<lastmod>2025-01-17</lastmod>
+				<lastmod>2024-01-17</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>1.0</priority>
 			</url>
 			<url>
 				<loc>https://http://localhost/thanks.html</loc>
-				<lastmod>2025-01-17</lastmod>
+				<lastmod>2024-01-17</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>1.0</priority>
 			</url>
